@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('What an awful print!')
+    print('yandex lycee')
 
 
 def main():
